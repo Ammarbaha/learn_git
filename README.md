@@ -1,3 +1,3 @@
-# learn_Git
+# Learn_Git
 
 ## Lessons
